@@ -29,6 +29,9 @@ Follow these steps to set up and use the Procthor_glb_exporter:
    - In the Unity Hub, select "Add" and navigate to the cloned AI2-THOR repository folder to add the project.
    - Open the AI2-THOR project in Unity.
 
+
+
+
 3. **Install the Unity-GLTF Package**:
 
    - In Unity, go to `Window > Package Manager`.
@@ -53,4 +56,6 @@ Follow these steps to set up and use the Procthor_glb_exporter:
    - In the Unity menu, navigate to `Tools` (or the custom menu created by the exporter script).
    - Select the option to export GLB files. This will convert the ProcTHOR house JSONs in `Assets/Resources/rooms/` into GLB models.
    - The exported GLB files will be saved to a designated output folder (check the exporter script for the default path or configure it as needed).
-file:///home/ia/Videos/exporter.mp4
+
+
+https://github.com/user-attachments/assets/edfc75ab-7a40-40cc-85e3-7325328d3c47
