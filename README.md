@@ -14,7 +14,7 @@ To use this tool, ensure you have the following:
 - **Unity 2021**: The exporter is designed to work with Unity 2021. Other versions of Unity are not guaranteed to work due to potential compatibility issues with AI2-THOR or the GLTF export package.
 - **Blender**: Blender can be used to convert glb models to gazebo world files or Isaac-sim USD files 
 
-## Tutorial
+## How to use
 
 Follow these steps to set up and use the Procthor_glb_exporter:
 
