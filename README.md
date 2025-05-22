@@ -1,5 +1,5 @@
 # Procthor_glb_exporter
-
+![An example in Isaac-Sim](./issac_procthor_house.png)
 ## Description
 
 The **Procthor_glb_exporter** is a tool designed to export ProcTHOR scenes into GLB (GL Transmission Format) models. ProcTHOR, developed by the Allen Institute for AI (AI2), is a procedural generation framework within the AI2-THOR environment that creates diverse, customizable 3D indoor scenes (e.g., houses) for AI research, simulation, and training. This repository provides a script to convert ProcTHOR-generated house scenes, represented as JSON files, into GLB models for use in other 3D applications or rendering pipelines.
