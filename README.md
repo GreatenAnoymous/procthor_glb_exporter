@@ -53,3 +53,4 @@ Follow these steps to set up and use the Procthor_glb_exporter:
    - In the Unity menu, navigate to `Tools` (or the custom menu created by the exporter script).
    - Select the option to export GLB files. This will convert the ProcTHOR house JSONs in `Assets/Resources/rooms/` into GLB models.
    - The exported GLB files will be saved to a designated output folder (check the exporter script for the default path or configure it as needed).
+file:///home/ia/Videos/exporter.mp4
