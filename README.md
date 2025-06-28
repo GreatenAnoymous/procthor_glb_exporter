@@ -1,4 +1,4 @@
-# Procthor_glb_exporter
+# Export the models and scenes from ProcThor
 ![An example in Isaac-Sim](./issac_procthor_house.png)
 ![An example in Gazebo](./gazebo_procthor_house.png)
 ## Description
